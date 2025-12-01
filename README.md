@@ -5,5 +5,5 @@ Required packages: pygame, random, time
 
 Merge sort example:
 
-![Alt text]("https://github.com/Bogatini/Sorting-Algorithms-Visualised/Example Video/sorting video.gif)
+![Alt text]("https://github.com/Bogatini/Sorting-Algorithms-Visualised/Example%20Video/sorting video.gif)
 
