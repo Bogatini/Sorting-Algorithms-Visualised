@@ -224,6 +224,7 @@ def main():
                     arr = random.sample(range(1, 101), 100)  # list of 100 unique heights
                     drawBars(arr, comparisons=COMPARISONS)
                     shouldExit = False  # reset exit flag
+                    pygame.time.wait(500)
                     algorithm(arr)
                 elif event.key == pygame.K_q:
                     shouldExit = True
